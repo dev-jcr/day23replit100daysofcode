@@ -1,4 +1,4 @@
-# Login with subroutine
+# Login with subroutine (definition)
 
 def login():
   while True:
