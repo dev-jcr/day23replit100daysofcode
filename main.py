@@ -1,5 +1,4 @@
 # Login with subroutine (definition)
-
 def login():
   while True:
     username = input("What is your username?: ")
